@@ -7,10 +7,8 @@
     },
     {
       "name": "maki-ui",
-      "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/bopel-maki-macohi/maki-ui"
+      "path": ".",
+      "type": "dev"
     }
   ]
 }

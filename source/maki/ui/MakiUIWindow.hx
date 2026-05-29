@@ -1,5 +1,6 @@
 package maki.ui;
 
+import flixel.FlxSprite;
 import flixel.group.FlxSpriteContainer.FlxTypedSpriteContainer;
 
 class MakiUIWindow extends FlxTypedSpriteContainer<FlxSprite>

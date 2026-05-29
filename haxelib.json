@@ -9,7 +9,7 @@
         "gui",
         "ui"
     ],
-    "classPath": "src/",
+    "classPath": "source",
     "contributors": [
         "Maki"
     ],
