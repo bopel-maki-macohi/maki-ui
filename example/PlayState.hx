@@ -12,6 +12,11 @@ class PlayState extends FlxState
 		window.screenCenter();
 		add(window);
 
+		for (i in 0...5)
+		{
+			window.addTab('HW : $i');
+		}
+
 		super.create();
 	}
 }
