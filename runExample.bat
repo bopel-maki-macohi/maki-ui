@@ -1,1 +1,0 @@
-cls && lime test hl -debug

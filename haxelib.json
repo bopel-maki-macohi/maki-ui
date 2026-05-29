@@ -9,12 +9,10 @@
         "gui",
         "ui"
     ],
-    "classPath": "source",
     "contributors": [
         "Maki"
     ],
     "dependencies": {
         "flixel": "6.1.2"
-    },
-    "main": "maki.ui.Run"
+    }
 }
