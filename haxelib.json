@@ -1,6 +1,6 @@
 {
     "name": "maki-ui",
-    "description": "A UI library for Flixel. A replacement for flixel-ui that (hopefully) avoid the complexity of haxeui-flixel.",
+    "description": "A UI library for Flixel. A replacement for flixel-ui that (hopefully) avoids the complexity of haxeui-flixel.",
     "url": "https://github.com/bopel-maki-macohi/maki-ui",
     "version": "0.1.0",
     "license": "MIT",
