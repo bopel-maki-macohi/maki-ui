@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="dev/icon.png" style="transform: translate(-100%, 25%);">
-<h1 style="transform: translate(0%, -125%); border: none;">maki-ui</h1>
+<h1 style="">maki-ui</h1>
 <br>
 
 A UI library for Flixel. A replacement for `flixel-ui` that (hopefully) avoids the complexity of `haxeui-flixel`
