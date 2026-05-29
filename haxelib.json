@@ -14,7 +14,7 @@
         "Maki"
     ],
     "dependencies": {
-        "flixel": "4.0.1"
+        "flixel": "6.1.2"
     },
     "main": "maki.ui.Run"
 }
